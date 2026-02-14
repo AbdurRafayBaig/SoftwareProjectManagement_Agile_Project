@@ -22,6 +22,6 @@ Demonstrate real-world team collaboration practices
 
 **🛠 Technologies Used**
 
-**1. **Git & GitHub
+1. Git & GitHub
 
-**2. **Jira Software
+2. Jira Software
